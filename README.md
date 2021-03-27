@@ -8,7 +8,7 @@ The simulation experiment of CHSD(Computer Hardware System Design), based on Log
 ## 资料  
 [计算机硬件系统设计MOOC](https://www.icourse163.org/course/HUST-1205809816)  
 [计算机硬件组成原理(微课版)谭志虎](https://book.douban.com/subject/35379794/)  
-[Educoder自己动手画CPU《计算机组织与结构实验》](https://www.educoder.net/paths/1426)
+[Educoder自己动手画CPU《计算机组织与结构实验》](https://www.educoder.net/paths/1426)  
 实验相关的软件包在Educoder平台上，请自行获取。  
 
 ## 实验列表  
