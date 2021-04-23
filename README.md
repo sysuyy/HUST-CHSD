@@ -37,8 +37,8 @@ The simulation experiment of CHSD(Computer Hardware System Design), based on Log
 - MIPS运算器设计
 
 ### 存储系统设计  
-- 汉字字库存储芯片扩展实验
-- MIPS寄存器文件设计
+- 汉字字库存储芯片扩展实验 [√]
+- MIPS寄存器文件设计 [√]
 - MIPS RAM设计
 - 全相联cache设计
 - 直接相联cache设计
