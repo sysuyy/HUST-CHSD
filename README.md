@@ -1,6 +1,6 @@
 # HUST-CHSD
-The simulation experiment of CHSD(Computer Hardware System Design), based on Logisim and Educoder, via HUST(Huazhong University of Science and Technology).   
 华中科技大学的计算机硬件系统设计仿真实验，基于仿真软件Logisim与在线实践测评平台Educoder。  
+The simulation experiment of CHSD(Computer Hardware System Design), based on Logisim and Educoder, via HUST(Huazhong University of Science and Technology).   
 
 ## 为什么创建这个仓库  
 这学期有幸当上了之前组原老师的助教，这门课使用的就是华科的实验方案，以前学习这门课的时候，课程没有要求把全部实验做完，也不够时间，于是想趁着这个机会，把整个实验课程完完整整做一遍，同时对实验做一些总结，放在网上，没准对其他同学有用。  
